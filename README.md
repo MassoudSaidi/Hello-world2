@@ -2,4 +2,4 @@
 
 this is going to be my first git project
 
-vue.js
+vue.js and vuetify
