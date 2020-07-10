@@ -6,6 +6,7 @@
 
 git commands:
 
+```
 git init
 git add
 git commit -m 'message'
@@ -20,3 +21,7 @@ git config
 git branch
 git merge
 
+```
+
+###### Links markdown
+This site was built using [GitHub Pages](https://pages.github.com/).
