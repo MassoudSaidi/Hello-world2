@@ -1,5 +1,18 @@
 # Hello-world2
 
-this is going to be my first git project
+git commands:
 
-vue.js and vuetify
+git init
+git add
+git commit -m 'message'
+
+git status
+
+git log
+
+git reset ?????
+git checkout
+git config
+git branch
+git merge
+
